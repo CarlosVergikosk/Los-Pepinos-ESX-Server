@@ -2,9 +2,6 @@
 
 Script modified by B1G
 
-# Support : https://discord.gg/FranceLife
-
-
 [PRE REQUIS]
 
 es_extended => https://github.com/ESX-Org/es_extended
