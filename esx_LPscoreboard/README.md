@@ -4,7 +4,6 @@
 <ul>
   <li>essentialmode</li>
   <li>es_extended</li>
-  <li>Brains</li>
 </ul>
 
 <h2>Features</h2>
@@ -29,11 +28,10 @@
 
 <h2>Credits</h2>
 <ul>
-  <li>B1G, Edited the design and the code</li>
-  <li>Base script creators:</li>
   <li>Stadus, <a href="https://forum.fivem.net/t/release-esx-custom-scoreboard-with-jobs-online/84767">Original resource</a></li>
   <li>LifeGoal, Design</li>
   <li>Hawaii, <a href="https://forum.fivem.net/t/release-esx-scoreboard/192860">Re-wrote the resource</a></li>
   <li>SuomiPelaajaa and Nidelix, Edited and finished the script</li>
   <li>Nidelix, Re-design</li>
+  <li>B1G, Re-design and some fixes on the base code</li>
 </ul>
