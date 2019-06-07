@@ -1,6 +1,6 @@
 # SCRIPT ATM MODIFIER
 
-Script modifier par moi même avec une interface RP de la BNP Paribas
+Script modified by B1G
 
 # Support : https://discord.gg/FranceLife
 
@@ -11,5 +11,6 @@ es_extended => https://github.com/ESX-Org/es_extended
 
 --
 
-Credits: Script Created By: @onlyserenity(amjedcha)
+Credits:* Re-Design, and major fixes by: B1G 
+        * Base Script Created By: @onlyserenity(amjedcha)
 
