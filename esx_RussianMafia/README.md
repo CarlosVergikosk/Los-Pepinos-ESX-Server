@@ -1,4 +1,4 @@
-# esx_taxijob
+# esx_RussianMafia - By B1G
 
 ## Requirements
 
@@ -9,39 +9,16 @@
   * [esx_society](https://github.com/ESX-Org/esx_society)
   * [esx_billing](https://github.com/ESX-Org/esx_billing)
 
-## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_taxijob
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_taxijob [esx]/esx_taxijob
-```
-
-### Manually
-- Download https://github.com/ESX-Org/esx_taxijob/archive/master.zip
-- Put it in the `[esx]` directory
-
 ## Installation
-- Import `esx_taxijob.sql` in your database
+- Import `esx_RussianMafia.sql` in your database
 - If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
 - Add this to your `server.cfg`:
 ```
-start esx_taxijob
+esx_RussianMafia
 ```
 
-# Legal
-### License
-esx_taxijob
+# Development
 
-Copyright (C) 2015-2018 Jérémie N'gadi
+I made this script to create a new mafia to my ESX server, you are free to use it by your own!
 
-This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
-This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
-
-You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
