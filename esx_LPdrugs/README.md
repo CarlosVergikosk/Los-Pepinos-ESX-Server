@@ -1,5 +1,5 @@
-# fxserver-esx_drugs
-FXserver ESX Drugs
+# esx_LPdrugs
+esx_LPdrugs
 
 [REQUIREMENTS]
 
@@ -17,20 +17,16 @@ INSERT INTO `items` (name, label) VALUES
   
   [INSTALLATION]
 
-1) CD in your resources/[esx] folder
-2) Clone the repository
-```
-git clone https://github.com/FXServer-ESX/fxserver-esx_drugs esx_drugs
-```
-3) * Import esx_drugs.sql in your database
+1) * Import esx_drugs.sql in your database
 
-4) Add this in your server.cfg :
+2) Add this in your server.cfg :
 
 ```
-start esx_drugs
+start esx_LPdrugs
 ```
 
 [FEATURES]
 * Use weed
+* NEW drug! - Pepinos 
 * Cops can't see or interact with the drugs zones
 * In the config.lua change the Config.RequiredCop to block the drugs zone in function of the cops count conected
